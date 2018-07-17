@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: k8s-demo
-    image: wardivaene/k8s-demo
+    image: wardvaiene/k8s-demo
     ports:
     - containerPort: 3000
